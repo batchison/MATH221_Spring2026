@@ -1,28 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
 
-<!-- This is the main course file for ... . It is used to generate all the public facing course materials so those can be hosted online.  -->
-<pretext xmlns:xi="http://www.w3.org/2001/XInclude">
-  <!-- Include common macros etc: -->
-  <xi:include href="./docinfo.ptx" />
-  <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
-  <article>
-    <title>Precalculus</title>
+  <docinfo>
+    <brandlogo url="https://www.framingham.edu/academics/colleges/college-science-technology-engineering-mathematics/mathematics" source="FSU__Shield_Full_Color.jpg" />
 
-    <subtitle>MATH 180-002 Spring 2026</subtitle>
+    <document-id>atchison_math221_S26</document-id>
 
-    <!-- Optional: include frontmatter with author info and date -->
-    <xi:include href="./frontmatter.ptx" />
-   
-    <xi:include href="./information.ptx" />
+    <macros>\newcommand{\foo}{b^{ar}}</macros>
+    <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
+  </docinfo>
 
-    <xi:include href="./grading.ptx"/>
-
-    <xi:include href="./policies.ptx"/>
-
-    <xi:include href="./FAQ.ptx"/>
-
-    <xi:include href="./dates.ptx"/>
-
+  <article xml:id="MATH221_S26">
+    <title>MATH 221 Calculus III Syllabus</title>
+    <subtitle>Spring 2026</subtitle>
+      <xi:include href="./ch_essentials.ptx" />
+      <xi:include href="./ch_essentials_2.ptx" />
+      <xi:include href="./ch_grading.ptx" />
+      <xi:include href="./nace.ptx" />
+      <xi:include href="./ch_additional_information.ptx" />
   </article>
 
-  </pretext>
+</pretext>

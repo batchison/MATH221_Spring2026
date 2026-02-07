@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xml:id="ch_grading" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Assessments and Grading</title>
+            <subsection xml:id="grading">
+            <title>Grading</title>
+                <figure>
+                <caption> Grading Breakdown <p>Any extra credit is built into the student's quiz, HW, and exam scores.  No makeup quizzes or late exams will be given under any circumstances.</p>
+                </caption>
+                <sidebyside>
+                    <tabular top="major" halign="center">
+                        <row bottom="minor"><cell>Item</cell><cell>Points</cell></row>
+                        <!--<row><cell>Homework</cell><cell>40</cell></row>-->
+                        <row><cell>Exam 1</cell><cell>40</cell></row>
+                        <row><cell>Exam 2</cell><cell>40</cell></row>
+                        <row><cell>Exam 3</cell><cell>40</cell></row>
+                        <row><cell>Quizzes (At least 10)</cell><cell>80-90</cell></row>
+                        <row><cell>Final Exam</cell><cell>75-85</cell></row>
+                        <row bottom="minor"><cell>Attendance</cell><cell>15</cell></row>
+                        <row bottom="major"> <cell>Total</cell><cell>300</cell></row>
+                    </tabular>
+                    <tabular top="major" halign="center">
+                        <row bottom="minor"><cell>Desired Grade</cell><cell>Percent</cell><cell>Points Needed</cell></row>
+                        <row><cell>A</cell><cell>95</cell><cell>285</cell></row>
+                        <row><cell>B</cell><cell>83</cell><cell>249</cell></row>
+                        <row><cell>C</cell><cell>73</cell><cell>219</cell></row>
+                        <row bottom="major"><cell>D-</cell><cell>60</cell><cell>180</cell></row>
+                    </tabular>
+                </sidebyside>
+                </figure>
+                <p>This course is A-F graded unless the student has arranged for P/F grading.</p>
+                <p>The following percentages are used for calculating the midsemester and final grades.</p>
+                <figure>
+                    <tabular halign="center">
+                        <row ><cell>A</cell><cell>100-95</cell><cell><m>\hspace{0.5in}</m></cell><cell>B-</cell><cell>82-80</cell><cell><m>\hspace{0.5in}</m></cell><cell>D+</cell><cell>69-67</cell></row>
+                        <row ><cell>A-</cell><cell>94-90</cell><cell><m>\hspace{0.5in}</m></cell><cell>C+</cell><cell>79-77</cell><cell><m>\hspace{0.5in}</m></cell><cell>D</cell><cell>66-63</cell></row>
+                        <row ><cell>B+</cell><cell>89-87</cell><cell><m>\hspace{0.5in}</m></cell><cell>C</cell><cell>76-73<alert><m>\dagger</m></alert></cell><cell><m>\hspace{0.5in}</m></cell><cell>D-</cell><cell>62-60</cell></row>
+                        <row ><cell>B</cell><cell>86-83</cell><cell><m>\hspace{0.5in}</m></cell><cell>C-</cell><cell>72-70</cell><cell><m>\hspace{0.5in}</m></cell><cell>F</cell><cell>Below 60</cell></row>
+                    </tabular>
+                </figure>
+            </subsection>
+            <subsection xml:id="quizzes_and_exams">
+            <title>Quizzes and Exams</title>
+                <p>  Three exams, worth 40 points each will be administered throughout the semester, along with a cumulative final exam.  Each student's lowest exam score will be replaced by an average of the student's quiz average.  Weekly quizzes, worth 10 points each, will be administered throughout the semester, with the lowest two quiz scores being dropped from the student's course point total.</p>
+                <p> All assignments will be largely based on the textbook examples and exercises.  Approximately 20% to 40% of all in-class assignments will be mastery questions (multiple choice, true/false, matching, and fill-in-the-blank style), which will generally not be graded based upon student work.  In general, all open-response questions will not receive partial credit unless sufficient work has been shown.</p>
+            </subsection>
+            <subsection xml:id="homework">
+            <title>Homework</title>
+            <p> All assigned homework is optional, but regular completion of suggested homework problems is essential to student success.  It is recommended that students complete as many problems from the textbook and course handouts as time permits for a complete understanding of key concepts.  Assigned written homework sets will only be collected in class for grading purposes when the instructor deems it necessary.  Students are strongly encouraged to discuss homework problems with their classmates, as well as the instructor either during office hours or at the start of class.</p>
+            </subsection>
+            <subsection xml:id="attendance_and_participation">
+                    <title>Attendance and Participation</title>
+                        <p>Attendance will be taken regularly.  Attendance of class meetings up to the course withdrawal deadline counts for 15 course points.  Students who have been observed by the instructor as either frequently absent or late to class or non-participatory may be subject to point deductions from their overall course score.  Students are responsible for obtaining lecture notes from their classmates for any classes missed.  At any point during the semester, students may be asked to provide proper documentation to the Office of Student Affairs, justifying any absence from the University.</p>
+                        <p> Successful completion of this course requires active participation on the part of the student.  To help promote classroom engagement and motivate student success, the instructor will make every effort to encourage active participation in a supportive learning environment.  Consequently, students will be expected to attend any lecture on time and ready to contribute.  Any student who cannot meet these expectations for whatever reason should notify the instructor formally with their concerns.</p>
+            </subsection>
+</section>
