@@ -4,7 +4,7 @@
   <title>Past Quizzes</title>
     <subsection xml:id="quiz_1">
         <title>Quiz 1</title>
-        <alert>Topic(s): Factoring, GCD/LCM, Distance and Midpoint Formulas, Solving Linear Equations</alert>
+        <p><alert>Topic(s): Factoring, GCD/LCM, Distance and Midpoint Formulas, Solving Linear Equations</alert></p>
         <p>
         <ol>
             <li> Solve the following linear equation.
