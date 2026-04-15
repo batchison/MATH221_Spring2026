@@ -4,6 +4,22 @@
   <title>Past Quizzes</title>
     <subsection xml:id="quiz_1">
         <title>Quiz 1</title>
-        <p>stuff</p>
+        <alert>Topic(s): Factoring, GCD/LCM, Distance and Midpoint Formulas, Solving Linear Equations</alert>
+        <p>
+        <ol>
+            <li> Solve the following linear equation.
+<me>\dfrac{3}{8}+\dfrac{13x}{6}=\dfrac{7x}{4}+1</me></li>
+            <li> Factor each of the integers below completely.
+<m>m=56 \hspace{1in} n=210</m></li>
+            <li> Find all of the divisors of <m>210</m>.</li>
+            <li> Use your factorizations in the previous problem to find the greatest common divisor and least common multiple of the two integers, 
+<m>GCD($56,210$)</m> and <m>LCM($56,210$)</m>.</li>
+            <li> 	\item Find the distance between the two points below.  Approximate your answer to the nearest tenth.
+<me>P$(4,-3)$ \qquad\qquad\qquad Q$(1,-4)$</me></li>
+            <li> Find the midpoint of the line between the two points below.
+<me>A(-6,-7/2) \qquad\qquad\qquad B(3,5)</me></li>
+            <li> Identify the quadrant number (I,II,III, or IV) that the midpoint found in the previous problem is located in.</li>
+        </ol>
+        </p>
     </subsection>   
 </section>
