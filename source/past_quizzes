@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 
-<section xml:id="quizzes" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="past_quizzes" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Past Quizzes</title>
     <subsection xml:id="quiz_1">
         <title>Quiz 1</title>
+        <p>stuff</p>
     </subsection>   
 </section>
