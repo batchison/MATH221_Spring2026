@@ -18,6 +18,7 @@
       <xi:include href="./ch_grading.ptx" />
       <xi:include href="./nace.ptx" />
       <xi:include href="./ch_additional_information.ptx" />
-  </article>
+      <xi:include href="./past_quizzes.ptx" />
+    </article>
 
 </pretext>
